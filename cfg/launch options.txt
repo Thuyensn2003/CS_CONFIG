@@ -1,0 +1,1 @@
+-freq 240 -novid -tickrate 128 -console +cl_interp_ratio 1 +fps_max 499 -allow_third_party_software -trusted
